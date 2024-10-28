@@ -890,3 +890,16 @@ a{
         }
     }
 }
+ .submit-new
+ {
+    
+    padding: .6rem;
+    color: black;
+    cursor: pointer;
+    
+ }
+ .submit-new:hover
+    {
+        background-color: #27AE60;
+        color: white;
+    }
